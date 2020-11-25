@@ -6,7 +6,7 @@ int climbStairs(int n);
 
 int main() {
 
-    cout << "jenkins测试 - 04" << endl;
+    cout << "jenkins测试 - 05" << endl;
 
     cout << climbStairs(7) << endl;
 
